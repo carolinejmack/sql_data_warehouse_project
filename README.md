@@ -1,1 +1,1 @@
-# sql_data_warehouse_project
+# Data Analytics and Warehouse Project
